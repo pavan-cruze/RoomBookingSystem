@@ -8,6 +8,6 @@ as while implementing this mail part we didn't used the existing packages which 
 a new library classes and implemented and we incorporated that class library here
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-There in member class if it didn't fetch's the EmailSender class then please add the reference of the EmailSender.dll on the mail folder 
+There in member class if it didn't fetch's the EmailSender class then please add the reference of the EmailSender.dll on the main folder 
 which we included.
 -----------------------------------------------------------------------------------------------------------------------------------------
