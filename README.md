@@ -10,4 +10,7 @@ a new library classes and implemented and we incorporated that class library her
 -----------------------------------------------------------------------------------------------------------------------------------------
 There in member class if it didn't fetch's the EmailSender class then please add the reference of the EmailSender.dll on the main folder 
 which we included.
+
+The total class library implementation was on following link.
+https://github.com/pavan-cruze/EmailSender
 -----------------------------------------------------------------------------------------------------------------------------------------
